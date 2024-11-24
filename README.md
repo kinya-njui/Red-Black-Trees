@@ -103,5 +103,4 @@ After Right Rotation:
     B
 ```
 
-- Rotations ensure that the tree remains balanced, adhering to the Red-Black Tree properties.
-- These rotations ensure that the Red-Black properties are restored without violating the BST property.
+- Rotations ensure that the tree remains balanced and the Red-Black properties are restored without violating the Binary Search Tree (BST) property.
